@@ -1,0 +1,48 @@
+body{
+  margin:0em; 
+font-family: 'Didact Gothic', sans-serif;
+}
+
+h1,h2,h3,h4,h5{ 
+font-family: 'Francois One', sans-serif;
+
+}
+
+h6{
+  font-family: 'Francois One', sans-serif;
+  
+}
+h7{
+  font-family: 'Francois One', sans-serif, curved;
+
+  font-size: 18px;
+}
+.cover{
+  height:400px;
+  background-image: url( https://cdn.glitch.com/fb27d1ca-cf7f-48a1-b62b-a46b99ee4c3e%2Fphoto-1553356009-50faee7aa84c.jpg?v=1619922133456);
+  color:white;
+  background-size:cover;
+  background-color:rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+}
+  
+  .card{
+    border:0 !impotant;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 3px 4px -1px rgba(0, 0, 0, 0.06);
+  
+}
+.cover-small{
+  
+  background-blend-mode:normal;
+  height:210px;
+}
+.card-title{
+  min-height: 3rem;
+}
+.card-text{
+  min-height: 5rem;
+  text-align: justify;
+}
+.p {
+  
+}
